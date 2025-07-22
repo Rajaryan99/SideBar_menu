@@ -13,3 +13,10 @@
 <li>- Dark-themed design</li>
 <li>- Responsive layout</li>
 <li>- Font Awesome icons for navigation items</li>
+
+<br><br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/031fbd42-899f-4d04-a2a2-ce21a2567571" />
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d5b7c7-c9ed-4b6f-b739-131263228418" />
+
+
